@@ -1,0 +1,7 @@
+#image files
+*.png
+*.jpeg
+*.jpg
+
+#packages
+node_modules/
